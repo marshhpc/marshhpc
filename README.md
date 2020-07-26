@@ -1,6 +1,7 @@
 # Marshall Cummings 
 
 ## Education and Certifications
+### PunchCode, Tech Impact
 • Worked 60+ hours a week for 12 weeks developing full-stack applications
 • Acquired skills in front end and back end development using Javascript, React, Express, AWS, and
 MySQL workbench.
