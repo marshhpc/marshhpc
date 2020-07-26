@@ -8,6 +8,8 @@ MySQL workbench.
 • Worked in various sized team environments to help each other learn, debug each others code, and
 meet project deadlines.
 
+## Current projects 
+
 ### White Bear 
 • A full-stack flash card application that aids in memorization using memorable imagery, phrases,
     concepts, and vocabulary.
